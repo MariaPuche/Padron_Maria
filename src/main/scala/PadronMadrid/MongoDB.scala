@@ -1,0 +1,5 @@
+package PadronMadrid
+
+object MongoDB {
+
+}
